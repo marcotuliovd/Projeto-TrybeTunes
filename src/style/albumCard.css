@@ -1,0 +1,17 @@
+section {
+  color: rgb(250, 250, 250);
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+.card {
+  align-items: center;
+  color: black;
+  margin: 10px;
+  width: 18rem;
+}
+
+.result {
+  width: 100%;
+}

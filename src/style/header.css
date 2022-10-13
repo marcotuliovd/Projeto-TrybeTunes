@@ -1,0 +1,13 @@
+/* stylelint-disable order/properties-alphabetical-order */
+.nav1 {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 50px;
+}
+
+.nav-link2 {
+  color: #81b71a;
+  padding: 10px;
+  text-decoration: none;
+}
+
